@@ -1,4 +1,4 @@
-wg://162.159.192.126:1010?publicKey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&privateKey=MD+Wr+G+evWu+jFq1y0qM/SlZSk5bXxY0h6VMDN/N3s=&ip=172.16.0.8&udp=1&reserved=0,0,0&flag=CN#warp%F0%9F%87%A8%F0%9F%87%B3%E2%91%A0%F0%9F%8E%96
+wg://warp.wlhacker.lol:500?publicKey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&privateKey=MD+Wr+G+evWu+jFq1y0qM/SlZSk5bXxY0h6VMDN/N3s=&ip=172.16.0.8&udp=1&reserved=0,0,0&flag=CN#warp%F0%9F%87%A8%F0%9F%87%B3%E2%91%A0%F0%9F%8E%96
 vless://b94884d2-751c-4cf2-988e-c143803afae0@cf.wlhacker.lol:443?encryption=none&security=tls&sni=10.wlhacker.lol&fp=randomized&type=ws&host=10.wlhacker.lol&path=%2F%3Fed%3D2048#cloudflare%F0%9F%8E%96
 vless://668310ee-8485-407f-801d-f84ba811557e@hk1.wlhacker.lol:443?encryption=none&security=tls&sni=v1.wlhacker.lol&fp=randomized&type=ws&host=v1.wlhacker.lol&path=%2F%3Fed%3D2048#%E9%A6%99%E6%B8%AF%E2%91%A0%F0%9F%8E%96
 vless://93aecd59-af4c-4389-97ce-d18d0c66e116@hk2.wlhacker.lol:443?encryption=none&security=tls&sni=v2.wlhacker.lol&fp=randomized&type=ws&host=v2.wlhacker.lol&path=%2F%3Fed%3D2048#%E9%A6%99%E6%B8%AF%E2%91%A1%F0%9F%8E%96
